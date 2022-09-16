@@ -4,8 +4,8 @@ Developed a web application using Python-Flask to help SSN students in their aca
 
 List of features:
   -Verified Login/Register
-  -Posts Feed
-  -Create/Modify Posts
+  -Public Posts/Requests Feed
+  -Create/Modify own Posts/Requests
   -Campus Map
   -Profile Updation
   -Important Academic Links
