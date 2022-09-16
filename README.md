@@ -34,5 +34,7 @@ POST VIEW/UPDATE/DELETE:
 ![single post](https://user-images.githubusercontent.com/87352664/190675529-09e2553d-6a6b-4a2c-853a-1428b3843e83.png)
 
 WEBSITE SIDEBAR: 
+
+
 ![sidebar](https://user-images.githubusercontent.com/87352664/190675607-87fa348a-7fb4-45a0-b85a-5082d912dff5.png)
 
